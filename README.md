@@ -16,3 +16,4 @@ DESCRIPTION: The Run-Length Encoding (RLE) program presented above can be writte
 
 OUTPUT:
 
+<img width="1379" alt="Image" src="https://github.com/user-attachments/assets/3bbd88a1-64cf-4a4c-9fac-86a37834c3d2" />
